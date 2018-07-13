@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "64afac43-b194-4813-bd6d-705aeb522800",
+            "Value": {
+                "id": "f504d366-66f6-49b7-965a-0c70d4fbc594",
+                "resourcePath": "notes\\N_UsingGitHub.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "6a1d5ba1-e8f3-4f2f-81a6-d4b67297d29b",
             "Value": {
                 "id": "1499dfbf-e1dc-485c-88b4-1ed7b8d3f226",
