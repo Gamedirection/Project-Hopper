@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "6a1d5ba1-e8f3-4f2f-81a6-d4b67297d29b",
+            "Value": {
+                "id": "1499dfbf-e1dc-485c-88b4-1ed7b8d3f226",
+                "resourcePath": "sprites\\S_Wall\\S_Wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79686c30-e93f-49a0-9182-e2011cca5c1f",
             "Value": {
                 "id": "a02168dd-b8f9-4b96-8766-b8f385a9da65",
