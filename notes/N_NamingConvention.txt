@@ -1,0 +1,10 @@
+Sprites: S_Desc
+TilesSets: TS_Desc
+Sounds: SND_Desc
+Paths: P_Desc
+Scripts: SCR_Desc
+Fonts: F_Desc
+Timelines: TL_Desc
+Objects: O_Desc
+Rooms: R_Desc
+Notes: N_Desc
